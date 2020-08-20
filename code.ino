@@ -1,6 +1,6 @@
 #include<Servo.h>
 
-int mindist = 50; //can be changed in order to get closer to the obstacle before stopping
+int mindist = 50; //can be changed in order to change how closer the bot gets to the obstacle before stopping
 
 int trigPin = 9;
 int echoPin = 10;
